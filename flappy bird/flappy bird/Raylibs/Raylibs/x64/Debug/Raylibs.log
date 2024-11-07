@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\lcv2342699\Downloads\flappy bird\flappy bird\Raylibs\Raylibs\main.cpp(22,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\lcv2342699\Downloads\flappy bird\flappy bird\Raylibs\Raylibs\main.cpp(40,44): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\lcv2342699\Downloads\flappy bird\flappy bird\Raylibs\Raylibs\main.cpp(69,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lcv2342699\Downloads\flappy bird\flappy bird\Raylibs\Raylibs\main.cpp(69,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lcv2342699\Downloads\flappy bird\flappy bird\Raylibs\Raylibs\main.cpp(69,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lcv2342699\Downloads\flappy bird\flappy bird\Raylibs\Raylibs\main.cpp(69,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lcv2342699\Downloads\flappy bird\flappy bird\Raylibs\Raylibs\main.cpp(72,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lcv2342699\Downloads\flappy bird\flappy bird\Raylibs\Raylibs\main.cpp(72,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lcv2342699\Downloads\flappy bird\flappy bird\Raylibs\Raylibs\main.cpp(72,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lcv2342699\Downloads\flappy bird\flappy bird\Raylibs\Raylibs\main.cpp(73,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lcv2342699\Downloads\flappy bird\flappy bird\Raylibs\Raylibs\main.cpp(73,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lcv2342699\Downloads\flappy bird\flappy bird\Raylibs\Raylibs\main.cpp(73,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Raylibs.vcxproj -> C:\Users\lcv2342699\Downloads\flappy bird\flappy bird\Raylibs\x64\Debug\Raylibs.exe

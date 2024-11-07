@@ -1,0 +1,1 @@
+This game is a version of flappy bird made in raylib for a college assignment. It needs raylib-5.0 installed to work.
